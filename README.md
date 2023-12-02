@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 <h1 align="center">Hi 👋, I'm Ali Guliyev</h1>
 <h3 align="center">CS Student at BSU University | Co-founder & CMO at SAHAF startup</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/39c0656670e6013bb3806455fd2bf532/tumblr_myzobdh4d51svwlszo1_500.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quli313&label=Profile%20views&color=0e75b6&style=flat" alt="quli313" /> </p>
 
